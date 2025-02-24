@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@johnpaulvaughan/itunes-music-library-tracks": "^1.3.0"
+  }
+}
